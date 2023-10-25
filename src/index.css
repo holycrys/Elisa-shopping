@@ -1,0 +1,35 @@
+
+
+ html,
+body,
+#root {
+  height: 100%;
+} 
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+
+  /* font-size: 1.1em; */
+  background: #dfdfdf;
+  color: #333;
+}
+* {
+  box-sizing: border-box;
+} 
+ 
+
+
+
+
+.error {
+  color: red;
+  background: pink;
+  border: 1px solid red;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 10px 0;
+}
+.error-text {
+  color: #b40e0e;
+}

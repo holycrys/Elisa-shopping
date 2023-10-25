@@ -1,0 +1,54 @@
+ .container {
+  margin-top: 70px;
+  width: 90%;
+  
+} 
+
+.card {
+  width: 100%;
+  height: 90vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  background-color: #eef3f8;
+  border-style: none;
+}
+
+.img {
+  flex: 1;
+  object-fit: cover;
+  max-width: 50%;
+}
+.body {
+  flex: 1;
+  width: 50%;
+  padding: 3rem;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #34495e;
+}
+.price {
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 2rem;
+}
+
+ .btn {
+  margin-top: 5rem;
+  color: white;
+  border: 1px solid white;
+  background-color: #3d6386;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #bacddf;
+}
+
+
+

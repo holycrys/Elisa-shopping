@@ -1,0 +1,16 @@
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 0 10rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+}
+.filter div {
+  font-weight: bold;
+  font-size: large;
+}
+.filter select {
+  padding: 0 0.5rem;
+  font-weight: bold;
+  border-radius: 4px;
+}

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "src": "imagini/img2.jpg",
+      "culoare": "bg-secondary",
+      "titlu": "Rochii"
+    },
+    {
+        "id": 2,
+        "src": "imagini/img13.jpg",
+        "culoare": "bg-secondary",
+        "titlu": "Pantaloni"
+    },
+    {
+        "id": 3,
+        "src": "imagini/img12.jpg",
+        "culoare": "bg-secondary",
+        "titlu": "Bluze"
+    },
+    {
+        "id": 4,
+        "src": "imagini/img7.jpg",
+        "culoare": "bg-secondary",
+        "titlu": "Tricouri"
+    }
+    
+]
+    
